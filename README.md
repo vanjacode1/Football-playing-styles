@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Football-playing-styles
-=======
 # Identifying playing styles in football using topic modeling
 
 This project turns raw soccer event data into **team-level “play style” topic distributions** by:
