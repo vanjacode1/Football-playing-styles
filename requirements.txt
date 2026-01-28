@@ -1,0 +1,12 @@
+socceraction==1.4.1
+pandas
+numpy
+tqdm
+multimethod==1.9
+numba
+kmedoids
+matplotlib
+matplotsoccer
+gensim
+adjustText
+shapely
