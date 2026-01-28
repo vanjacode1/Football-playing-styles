@@ -118,4 +118,3 @@ Then we fit **LDA (Latent Dirichlet Allocation)**:
 This project uses the public Wyscout spatio-temporal event dataset from:
 
 Pappalardo, L., Cintia, P., Rossi, A. et al. *A public data set of spatio-temporal match events in soccer competitions.* **Scientific Data** 6, 236 (2019). https://doi.org/10.1038/s41597-019-0247-7
->>>>>>> 62a37e3 (Initial commit)
